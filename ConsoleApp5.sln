@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp5", "ConsoleApp5\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{31E4CED0-FAB1-45C9-BAFE-288D8530608D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModelsLayer", "DataModelsLayer\DataModelsLayer.csproj", "{64926040-3319-4541-8297-FB58990277AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{31E4CED0-FAB1-45C9-BAFE-288D8530608D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31E4CED0-FAB1-45C9-BAFE-288D8530608D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31E4CED0-FAB1-45C9-BAFE-288D8530608D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64926040-3319-4541-8297-FB58990277AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64926040-3319-4541-8297-FB58990277AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64926040-3319-4541-8297-FB58990277AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64926040-3319-4541-8297-FB58990277AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
